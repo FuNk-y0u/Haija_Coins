@@ -1,0 +1,274 @@
+Script for Social Studies: 
+12:52 PM 21/07/2021
+
+Desc. Just a casual script made based on the topic of 'Human Trafficking'.
+
+
+Characters:
+
+Character 1 (Teacher 1) [T1]
+Character 2 (Interviewer) [Iv]
+Character 3 (Student 1) [S1]
+Character 4 (Student 2) [S2]
+
+Idea: Forced down into a corner -  Goes on to traffic the students... Continuation/Conclusion
+
+
+{Event 1: 'Project' Initiation
+Day: <Present> [In the Present time period]
+Setting: [A 'unique' location with a dark lighting and the "Study room for a nerd"]
+Time: [Dusk]
+Characters: S1, T1
+
+
+S1: So what do you want to do with us?
+T1: Eh, nothing much to be honest. Like I said before, I will just be using a bit of help from you for a little while.
+
+S1: Yeah, right. I don't really see how any one of us can help you with what you want the end result to be like.
+T1: No, no, no. Trust me. Its not really that hard. It will all be over in the blink of an eye, and you won't even bother thinking about anything that you experienced in that time period.
+
+S1: You talk as if I could actually trust you. No way in hell am I going to end up trusting you. It's YOU of all people for CHRIST'S SAKE!
+T1: Yes, but the situation compels us to stay together and work in it. Its not like we have that much of a choice here to be honest. Neither you, nor I, can choose what will the two of us be doing. Its all going to be just us following whatever the environment and the situation asks for. I just hope that you can actually comply with what I want and do not end up shattering my expectations and what the end result will be.
+
+S1: I also really hope that I end up complying with whatever the situation requests us to do and do end up surviving through whatever hell awaits me.
+T1: Well, good luck anyway. Its not like that I wanted to join hands with you either. We are stuck in this.
+
+S1: Yea, no.
+T1: We are STUCK in this SITUATION. You hear me? STUCK! WE ARE STUCK TOGETHER!
+
+[<Event 1: 'Project' Initiation: Concluded]
+}
+
+{Event 2: [Interview]
+Day: <???> [In the past]
+Setting: [An official room]
+Time: <Bright shining sun, afternoon>
+Characters: T1, Iv
+
+Start:
+
+Iv: So, why would we want to accept you?
+T1: Well, I will admit that my criminal record is not the best one out there, but yeah, it does exist. I was only caught by them in a 'misunderstanding'. I am not really a criminal. They misunderstood the situation that I was in by themselves. Whatever my criminal record says, it was not intentional, from my perspective at least.
+
+Iv: How can I believe you that it was not intentional?
+T1: To be honest, it had happened when I was a kid, and to top it off I didn't stab his neck or anything. What was stabbed was his mouth, not his neck. Also, it wasn't done with a weapon made specifically for killing. It was completely accidental given the use of a glass shard.
+
+Iv: And, how can you say that you are suitable for teaching?
+T1: Alright, I will first state that my grades were among the best till middle school. You can see my CV right there if you want to confirm it. So, I have always been a brilliant student and a great learner, but that incident was the turning point for my life. Considering the fact that I will now need to start learning properly in order to build up a proper career, I really do need to start learning from the basics.
+
+Iv: And, what about your nature? Even if you have completely fulfilled your sentence period, it wouldn't be trustable if you were to admit that you are an innocent person and you do not have the nature of a criminal, for you have already committed a sin, and your request's reason is a good enough reason to support my claim.
+T1: That is, indeed true enough, but I just wanna say that you can still give me a chance. And if things go south, just fire me. That should be good enough if you wanna stop me.
+Iv: Alright, you shall be kept on a silver line and the moment things look grim, you shall be fired. 
+('He does seem to be capable enough to be a good teacher for the students but lets see if he's good enough to be a teacher based on his behaviour rather his results')
+
+[<Event 2: Interview> Concluded]
+}
+
+
+{Event 3: Class
+Day: <???> [In the Past after [Event 2]>
+Setting: [A Bright Study room with quite a lot of technical materials]
+Time: [Noon]
+Characters: T1
+
+T1: Alright... Alright, students, gather round. 
+
+<Crowd: [Uninterested noises]>
+T1: So, I am going to be your new teacher for a bit of a session and so, we are going to have to be stuck in this class together for some time. A session would be the least amount of time that you would be stuck with me for. So, anyways, enjoy yourself. 
+
+<Crowd: ...>
+T1: An introduction, I'd rather?
+So, I am gonna be your new teacher. I am not that old of a person and I am only going to be turning about 19 this year. We should both make pretty good of students.
+
+<Action Starts>
+T1: So, S1, S2, S3, would you might meeting up with me for a short introductory phase in the staff room. You tone of your voices just seemed brilliant and we should be able to establish 'goodwill' among us both.
+
+S3: Eh, sounds kinda cringe, but alright. Also, why just us 3... If its about expressing ourselves, there are others far more better than us.
+S1, S2: Seconded enough.
+
+T1: Its not about the conscious judgement only. Its also about the subconsicous judgement. There's the whole thing of biasness and body gestures to start talking about it all. And I will just be starting with you 2. I am gonna go and introduce myself to everyone else eventually.
+
+S1, S2, S3: Fair enough. 
+Alright then, you can wait for us in there.
+
+...
+
+Iv: I wouldn't really associate myself with him if I were you.
+S3: Why?
+
+Iv: His soul might be tainted. His actions will end up showing it all later on. If no, just forget what I just said.
+S1: AAAAA, you still do owe us an explanation for what you meant by that claim. 
+
+Iv: You will understand it later on.
+S2: I really do hope that all 3 of us can trust you.
+
+[<Event 3: Class> Concluded]
+}
+
+{Event 4: [Introduction]
+Day: <???> [In the past]
+Setting: [The official room]
+Time: <Bright shining sun, Evening>
+Characters: T1, S1, S2
+
+S1: Alright, so what did you want with us?
+T1: Ah, nothing much to be honest. I just wanted to get started as an introductory phase for if anything were to happen.
+
+S2: So, what do we do for that?
+T1: How about a small test? That should be good enough for it, right?
+
+S2: A GODAMMNED test? I have already have had enough of it over the past few weeks that this session has started.
+T1: An aptitude test, I'd rather?
+
+S3: Alright, count me in!
+S1: Me too.
+S2: Ah, screw it. Majority wins. I am also gonna take this test now.
+
+T1: Fair enough
+
+...
+
+S1: So, what's the plan for the events that you would possibly host in the future?
+T1: Haven't thought that much into the future if I had to admit. I am still settling up as a teacher. To top it all off, I am only 19 as of today. Not can I say much about how I grew up to be honest.
+
+S1, S2, S3: ...Why? That just seems <Sus> no matter how you put it on. Unless given a specific reason to trust, none of us three are going to go around trusting random people. If you were to be a teacher for longer than 2 sessions, is another matter in itself, but I see the chances for it being grim. I don't really see that much of a hope for what we are planning to do here.
+T1: You will need to trust me for now. As long as we can establish the 'goodwill', there shouldn't really be that big of a problem for how we end up trusting each other and what and why our misunderstandings stand out from.
+
+S1, S2, S3: ...Fair enough. Alright. We got ourselves a deal.
+
+...
+S1, S3: Is this what you were referring to?
+Iv: No, he has yet to show his true colours. Do not believe and front that he keeps.
+
+S3: You are still beating around the bush, eh? He does seem like a normal teacher to us.
+Iv: Just don't trust what he says. If things really do go south, he will need to be fired.
+[<Event 4: Introduction: Concluded]
+}
+
+{Event 5: [Pay]
+Day: <???> [In the past, close enough to the present]
+Setting: [The Official Room]
+Time: <Bright shining sun, Noon>
+Characters: T1, T2, Iv
+
+T2: So, how has your school period been going on?
+T1: Fairly good enough. I have not had that many problems over the past few months to start with. And I think that all of them got to know me, the real me, a lot better.
+
+T2: That's fine. You have been real kind and courteous over the past few years. I don't think that there should arise that many problems in the near future. Alright, let's all stay hopeful on that end and not break each other's trust.
+T1: Fair enough. Let's hope that our 'goodwill' retains, and we can keep on strenthening our bond as we go on experiencing more and more stimuli together.
+T2: Yes, let's hope about it.
+ 
+Iv: So, how's your report going, boys?
+
+T1: Where's my pay?
+T2: Hahahah. I really do find it funny that even though we are such a big school we don't get that much of a pay to make sure that we can sustain our lives.
+
+T1: Well... its supposed to be build upon trust and respect, so I don't mind small delays. If the delays are long, then its a whole different matter that we are going to go into...
+Iv: You will get it soon enough. I don't really think that you will need to worry that much about what we are going to be doing in the time periods.
+
+T1: I hope that my patience can sustain.
+T2: I really think that it can.
+
+[<Event 5: Pay> Concluded]
+}
+
+{Event 6: [Monologue]
+Day: <???> [Few days before the present]
+Setting: [Home]
+Time: <Dull sun, Evening>
+Characters: T1
+
+T1: [They still have not given me my pay yet... What the hell is that person thinking? He clearly made a deal with me already. This sucks. I have already almost run out of money, and all the other people are also going to come and haunt me now. This kinda puts me in a large problem. I need to find a source of income. This is starting to get a little bit troublesome. I might not be able to properly sustain my needs. I really need to find that money. This is starting to get really troublesome. Ah man, this sucks a lot. This really sucks a lot. I need to find a source of income. What do I do? Ah, god What should I do? What the hell should I do? Search for another part-time job? No, terrible idea. That's a lot of effort. I need to make sure that I prioritize efficiency. That won't work. What do I do? What can I do? How can I efficiently earn some money? Those 3. Yeah, those 3. They should be useful for something. What can I force them to do to help me earn some money? Organize a scam? No, also bad idea. My escape won't be easy if I do scam. Wait... There's that option as well. That's quite efficient and I won't have that much work to do either. Yeah, let's go with that. That will be good enough for me to get some quick money.] 
+
+[<Event 6: Monologue> Concluded]
+}
+
+{Event 7: [Main Event]
+Day: <???> [Present]
+Setting: [Street]
+Time: <Dull moon, Evening>
+Characters: T1, S1, S2, S3
+
+T1: Boys, do you mind coming up? Got a little bit of event.
+S3: What event?
+
+T1: You will know about it once you come up there. Ah, yea... All 3 of you are to come. Its quite interesting.
+S2: Alright. Let me just tell my parents that I am gonna be late today.
+
+T1: Fine, but make it quick. Don't make me wait.
+...
+S2: He's taking us somewhere. What do you suggest we do?
+Iv: Stall... I will come to where you three reach. It should be good enough to see his intentions.
+S2: Alright.
+...
+
+T1: So, let's be on our way, shall we?
+	: Alright. But where are we going? Can you tell us that at least?
+T1: Well, uhh, its somewhere.
+	: Why are you beating around the bush again? Speak clearly.
+T1: Just shut up for a second, man. Follow me around if you don't want to bother getting hurt.
+	: Wha-
+
+[<Event 7: Main Event> Concluded]
+}
+
+{Event 8: [Resolution]
+Day: Present [Continuation to event 1]
+Setting: [Home]
+Time: <Dull sun, Evening>
+Characters: All
+
+T1: Sheesh, alrighty. Let's get going. 
+S1: Going? Where?
+
+T1: To the main event.
+S1: Isn't the place we are currently at the-
+
+T1: NO! Its not. Don't ask me anything useless. Just follow me around for a while.
+S2: Alright. Let's make it quick then.
+
+T1: Good, good, good, good...
+
+... Alright enter this car.
+
+S3: Hmm... This one?
+T1: Yes, make it quick.
+
+...
+
+T1: Wanna grab something good?
+S3: Do you have some money on you?
+
+T1: Y'all don't have money on you? Then forget it. Let's just go there quicker.
+
+...
+
+T1: Alright boss. I brought the goods. They back there. Use them well. I am going out for now.
+T2: Oh, "goods", eh? So they are all here?
+
+T1: Yeah, they are all here. Also, where's my pay?
+T2: Waiting for you in that room over there.
+
+T1: Alright. Wait wha- Aren't you him?
+Iv: Welcome to your prison cell, my little magot. 
+
+T1: What are you doing here? Why are you the one here? And what? 'prison cell'? What are you blabbering on about?
+Iv: Oh, boy. Maybe you did not understand me. 
+
+T1: Speak sense.
+Iv: In simple terms, you are fired and you are under arrest..
+
+T1: So my pay...
+Iv: That was because we were just testing whether you were suitable for the job or not. And we have decided that you need to stay in here for a bit longer. Anyway, enjoy your time.
+
+T1: Damn, you!
+
+...
+
+Alright let's go back everyone...
+
+[<Event 8: Resolution> Concluded]
+}
+
+---End---
+
